@@ -22,6 +22,6 @@ The program offers an interactive menu with three (3) main options:
 ## 💻 Technologies & Code Structure
 * **Language:** Prolog (usage of [SWI-Prolog](https://www.swi-prolog.org/) is recommended).
 * **File Structure:**
-  * `main.pl` (originally `3677-3637-3785.pl`): The main script containing the logic, rules, menu, and auction algorithm.
+  * `Real_Estate.pl` : The main script containing the logic, rules, menu, and auction algorithm.
   * `houses.pl`: The Knowledge Base with available properties.
   * `requests.pl`: The Knowledge Base with client profiles.
