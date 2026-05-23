@@ -25,3 +25,10 @@ The program offers an interactive menu with three (3) main options:
   * `Real_Estate.pl` : The main script containing the logic, rules, menu, and auction algorithm.
   * `houses.pl`: The Knowledge Base with available properties.
   * `requests.pl`: The Knowledge Base with client profiles.
+
+## 📈 Learning Outcomes
+Declarative Programming: Learning the "describe the problem" approach instead of the "describe how to solve the problem" approach found in procedural languages (C, Java).
+
+Constraint Satisfaction: Creating algorithms that solve problems involving multiple constraints (filtering & matching).
+
+Expert Systems: Practical exposure to Good Old-Fashioned AI (GOFAI) by creating Knowledge Bases and inference rules.
